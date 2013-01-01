@@ -1,0 +1,341 @@
+#spArticleSection {
+    color: #444;
+    line-height: 1.5em;
+}
+
+#spArticleSection p {
+    color: #444;
+    line-height: 1.5em;
+}
+
+#spArticleWideTopSection {
+    font-weight: normal;
+}
+
+#spBothColumnsTeaser {
+    border: none;
+}
+
+#spBoxColumn {
+    background-color: #ffffff;
+}
+
+#spBreadcrumb {
+    border-style: none;
+}
+
+#spChannel {
+    background: none;
+    padding-left: 1em;
+}
+
+#spChannel li a {
+    border: none;
+    color: #442929;
+}
+
+#spChannel li ul {
+    padding-left: 1.6em;
+}
+
+#spChannelName {
+    font-variant: small-caps;
+    font-weight: normal;
+    letter-spacing: 2.5pt;
+    padding-bottom: 0;
+    padding-top: 1.3em;
+    text-transform: capitalize;
+}
+
+#spContainer.spClearfix {
+    background-color: none;
+    border: none;
+}
+
+#spContentWrapper {
+    border: none;
+    border-top: none;
+    box-shadow: 1px 0px 7px #d1d1d1;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#spFbTwitterBarStd {
+    display: none;
+}
+
+#spHeaderColoured {
+    background: none;
+}
+
+#spIntroTeaser strong {
+    color: #444;
+    font-weight: bold;
+    line-height: 1.5em;
+}
+
+#spKolumnisten {
+    background-color: #ededed;
+    border-color: #757575;
+    border-style: none;
+    border-width: 1px;
+    padding: .7em;
+}
+
+#spPageFooter {
+    background: none;
+    background-image: url('http://subtlepatterns.com/patterns/denim.png');
+    box-shadow: 1px 0px 2px #444;
+    margin: 0;
+    padding: 10px;
+}
+
+#spPageFooter #spPageFooterMainNav ul {
+    background: none;
+}
+
+#spPageFooter #spPageFooterMainNav ul a {
+    color: #ccc;
+}
+
+#spPageFooter #spPageFooterSubNav {
+    background: none;
+    float: left;
+}
+
+#spPageFooter #spPageFooterSubNav ul {
+    background: none;
+}
+
+#spPageFooter #spPageFooterSubNav ul a {
+    color: #ccc;
+}
+
+#spPageFooter .spTop {
+    background: none;
+}
+
+#spPageFooterSubNav ul li {
+    margin-top: .4em;
+}
+
+#spPartnerBar {
+    display: none;
+}
+
+#spSearch {
+    background: none;
+}
+
+#spSearchArticles {
+    display: none;
+}
+
+#spSearchStock {
+    display: none;
+}
+
+#spServiceNav li a {
+    color: #000000;
+}
+
+#spThemenBreadcrumb h2 {
+    background: none;
+}
+
+#spTopicTitle {
+    background-image: none;
+    padding-left: 0;
+}
+
+#spWrapper {
+    border: none;
+    min-width: 0px;
+    width: 100%;
+}
+
+.spCenterpage#spHeader {
+    border-bottom: 1px dotted #d1d1d1;
+}
+
+.spClearfix#spContainer {
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spPaginatorControlArrows {
+    left: auto;
+}
+
+a {
+    color: grey;
+}
+
+a.spTextlinkInt {
+    color: #906565;
+}
+
+body {
+    margin-left: 20px;
+    margin-right: auto;
+    width: 70%;
+}
+
+body.spHomepageContent {
+    background-image: url('http://subtlepatterns.com/patterns/brillant.png');
+}
+
+div.main p {
+    color: #444;
+}
+
+div.spAssetHdln a span {
+    background-color: #edffbd;
+    color: #444;
+}
+
+div.spBreitwandDottedList {
+    color: #444;
+    line-height: 1.6em;
+}
+
+div.spClearfix {
+    background: none;
+    border-style: none;
+}
+
+div.spHtmlbox {
+    border-color: #bababa;
+    border-style: dotted;
+    border-width: 1px;
+}
+
+div.spHtmlbox.spKickerTicker {
+    display: none;
+}
+
+div.spHtmlbox.spListboxspiegel.spClearFix {
+    background-color: #ffffff;
+    border-style: dotted;
+    border-width: 1px;
+}
+
+div.spInfoBox {
+    display: none;
+}
+
+div.spLine {
+    display: none;
+}
+
+div.spListbox.spClearFix {
+    border-color: #bababa;
+    border-style: dotted;
+    border-width: 1px;
+}
+
+div.spListboxCloser {
+    border-style: none;
+}
+
+div.spRessortBoxHeader {
+    background-color: #ffffff;
+    border-color: #bababa;
+    border-style: dotted;
+    border-width: 1px;
+}
+
+div.spRessortTeaserBox {
+    color: #444;
+    line-height: 1.6em;
+}
+
+div.spRessortTeaserBoxTop h2 {
+    padding-bottom: .7em;
+}
+
+div.spRessortTeaserBoxTop h2 a {
+    color: #906565;
+}
+
+div.spTop a {
+    display: none;
+}
+
+div.spTopThema {
+    border-style: none;
+    color: #444;
+    line-height: 1.6em;
+}
+
+div.spTopicMultimedia h2 {
+    color: #906565;
+}
+
+img.spIEsixPng#spSearchGo {
+    display: none;
+}
+
+li a span {
+    color: #444;
+}
+
+li.spHeaderFollow {
+    display: none;
+}
+
+span.spArticleHeadLine {
+    color: #90bfdd;
+    font-weight: normal;
+}
+
+span.spArticleTopicLine {
+    color: #906565;
+    font-weight: normal;
+    letter-spacing: 1pt;
+    margin: 0;
+    margin-bottom: .3em;
+}
+
+span.spBlk {
+    color: #444;
+}
+
+span.spCpHdln {
+    color: #90bfdd;
+    font-weight: normal;
+}
+
+span.spCpTopic {
+    color: #906565;
+    font-weight: normal;
+    letter-spacing: .8pt;
+}
+
+ul li a {
+    color: #906565;
+}
+
+ul#spChannel {
+    border: none;
+}
+
+ul#spChannel li a {
+    border: 0;
+    margin: 0;
+}
+
+ul.spDottedLinkList {
+    margin-top: 1.8em;
+}
+
+ul.spDottedLinkList li {
+    height: 2em;
+}
+
+ul.spDottedLinkList li a {
+    color: #906565;
+}
+
+
