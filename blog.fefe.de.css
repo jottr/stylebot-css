@@ -1,0 +1,126 @@
+a {
+    color: #60799C;
+    text-decoration: none;
+}
+
+body h2 {
+    background-image: url('http://dl.dropbox.com/u/433830/all-seeing-eye.png');
+    background-repeat: no-repeat;
+    background-size: 120px auto;
+    height: 70px;
+    left: -95px;
+    margin-bottom: -10px;
+    padding-top: 90px;
+    position: relative;
+    width: 120px;
+}
+
+body h2 a {
+    color: #ffffff;
+    display: none;
+    width: 160px;
+}
+
+body ul {
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    width: 80%;
+}
+
+body ul li {
+    border-bottom-width: 0;
+    border-color: #d6d6d6;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-style: solid;
+    border-top-width: 0;
+    margin-bottom: 11em;
+    margin-top: -8em;
+    padding-left: 2em;
+    padding-right: 2em;
+    text-align: justify;
+    white-space: pre-wrap;
+}
+
+html {
+    background-image: url(http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/debut_light.png);
+}
+
+html body {
+    background-color: #ffffff;
+    border: 1px dotted    rgba(0,0,0,0.11);
+    border-radius: 5px;
+    color: #444;
+    font-family: sans-serif;
+    font-size: .9 em;
+    line-height: 1.6em;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+    padding-top: 1.5em;
+}
+
+html body b {
+    display: none;
+}
+
+html body h3 {
+    background-color: #ffffff;
+    border-bottom-width: 0;
+    border-color: #000000;
+    border-left-width: 2px;
+    border-right-width: 0;
+    border-style: solid;
+    border-top-width: 0;
+    color: #5c5c5c;
+    font-size: .8em;
+    font-weight: normal;
+    margin-bottom: 11em;
+    margin-left: 6em;
+    margin-top: -8em;
+    padding-left: 1em;
+    text-align: left;
+    width: 70%;
+}
+
+html body p {
+    display: none;
+}
+
+ul li blockquote {
+    border-bottom-width: 0;
+    border-color: #ABCEFF;
+    border-left-width: 1px;
+    border-right-width: 0;
+    border-style: solid;
+    border-top-width: 0;
+    padding-left: 1em;
+    text-algin: justify;
+    white-space: pre-wrap;
+}
+
+ul li ul {
+    padding-top: 1em
+;
+}
+
+ul li ul li {
+    margin: 1em;
+    padding: 0;
+}
+
+ul li pre {
+    background-color: #f7f9fc;
+    font-size: .7em;
+    padding: 5px;
+    font-family: Courier;
+    white-space: pre-wrap;
+}
+
