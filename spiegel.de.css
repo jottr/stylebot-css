@@ -148,12 +148,6 @@
     padding-left: 0;
 }
 
-#spWrapper {
-    border: none;
-    min-width: 0px;
-    width: 100%;
-}
-
 .spCenterpage#spHeader {
     border-bottom: 1px dotted #d1d1d1;
 }
@@ -338,4 +332,9 @@ ul.spDottedLinkList li a {
     color: #906565;
 }
 
+div.spAssetHdln {
+    color: #444;
+    font-weight: normal;
+    margin-bottom: .3em;
+}
 
