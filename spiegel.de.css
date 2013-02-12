@@ -184,6 +184,12 @@ div.main p {
     color: #444;
 }
 
+div.spAssetHdln {
+    color: #444;
+    font-weight: normal;
+    margin-bottom: .3em;
+}
+
 div.spAssetHdln a span {
     background-color: #edffbd;
     color: #444;
@@ -332,9 +338,8 @@ ul.spDottedLinkList li a {
     color: #906565;
 }
 
-div.spAssetHdln {
-    color: #444;
-    font-weight: normal;
-    margin-bottom: .3em;
+/* hide forum*/
+div.spCommentsBox.spClearfix {
+    display: none;
 }
 
