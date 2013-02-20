@@ -8,7 +8,7 @@ body h2 {
     background-repeat: no-repeat;
     background-size: 120px auto;
     height: 70px;
-    left: -95px;
+    left: -99px;
     margin-bottom: -10px;
     padding-top: 90px;
     position: relative;
@@ -94,6 +94,14 @@ html body p {
     display: none;
 }
 
+pre {
+    background-color: #f7f9fc;
+    font-family: Courier;
+    font-size: .7em;
+    padding: 5px;
+    white-space: pre-wrap;
+}
+
 ul li blockquote {
     border-bottom-width: 0;
     border-color: #ABCEFF;
@@ -114,13 +122,5 @@ ul li ul {
 ul li ul li {
     margin: 1em;
     padding: 0;
-}
-
-pre {
-    background-color: #f7f9fc;
-    font-size: .7em;
-    padding: 5px;
-    font-family: Courier;
-    white-space: pre-wrap;
 }
 
