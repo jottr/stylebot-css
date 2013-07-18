@@ -67,10 +67,6 @@ html body {
     padding-top: 1.5em;
 }
 
-html body b {
-    display: none;
-}
-
 html body h3 {
     background-color: #ffffff;
     border-bottom-width: 0;
@@ -88,10 +84,6 @@ html body h3 {
     padding-left: 1em;
     text-align: left;
     width: 70%;
-}
-
-html body p {
-    display: none;
 }
 
 pre {
@@ -122,5 +114,26 @@ ul li ul {
 ul li ul li {
     margin: 1em;
     padding: 0;
+}
+
+html body > h2 + b {
+    font-size: .9em;
+    position: relative;
+    margin-top: -150px;
+    height: 150px;
+    clear: both;
+    text-align: center;
+    margin-bottom: em;
+}
+
+html body > b + p {
+    font-size: .9em;
+    position: relative;
+    margin-top: -120px;
+    height: 150px;
+    clear: both;
+    text-align: center;
+    padding-bottom: 4em
+;
 }
 
