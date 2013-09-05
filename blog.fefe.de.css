@@ -1,20 +1,79 @@
-a {
-    color: #60799C;
-    text-decoration: none;
+html {
+    background-image: url(http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/debut_light.png);
 }
 
+html body {
+    background-color: #ffffff;
+    border: 1px dotted rgba(0,0,0,0.11);
+    border-radius: 5px;
+    color: #444;
+    font-family: sans-serif;
+    font-size: .9 em;
+    line-height: 1.6em;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+    padding-top: 1.5em;
+}
 body h2 {
     background-image: url('http://dl.dropbox.com/u/433830/all-seeing-eye.png');
     background-repeat: no-repeat;
     background-size: 120px auto;
     height: 70px;
-    left: -99px;
+    left: 61px;
     margin-bottom: -10px;
     padding-top: 90px;
-    position: relative;
+    position: fixed;
     width: 120px;
 }
 
+html body h2 + b {
+    margin-top: 20px;
+    margin-bottom: 200px;
+    display: block;
+    font-size: .9em;
+    text-align: center;
+    position: relative;
+}
+
+html body > b + p {
+    margin-top: -190px;
+    margin-bottom: 100px;
+    padding-bottom: 70px;
+    font-size: .9em;
+    position: relative;
+    text-align: center;
+}
+
+html body h3 {
+    background-color: #ffffff;
+    border-bottom-width: 0;
+    border-color: #000000;
+    border-left-width: 2px;
+    border-right-width: 0;
+    border-style: solid;
+    border-top-width: 0;
+    color: #5c5c5c;
+    font-size: .8em;
+    font-weight: normal;
+    margin-bottom: 11em;
+    margin-left: 6em;
+    margin-top: -8em;
+    padding-left: 1em;
+    text-align: left;
+    width: 70%;
+}
+
+
+
+
+a {
+    color: #60799C;
+    text-decoration: none;
+}
 body h2 a {
     color: #ffffff;
     display: none;
@@ -46,45 +105,7 @@ body ul li {
     white-space: pre-wrap;
 }
 
-html {
-    background-image: url(http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/debut_light.png);
-}
 
-html body {
-    background-color: #ffffff;
-    border: 1px dotted    rgba(0,0,0,0.11);
-    border-radius: 5px;
-    color: #444;
-    font-family: sans-serif;
-    font-size: .9 em;
-    line-height: 1.6em;
-    margin-left: 120px;
-    margin-right: 120px;
-    margin-top: 1em;
-    padding-bottom: 1em;
-    padding-left: 2.5em;
-    padding-right: 2.5em;
-    padding-top: 1.5em;
-}
-
-html body h3 {
-    background-color: #ffffff;
-    border-bottom-width: 0;
-    border-color: #000000;
-    border-left-width: 2px;
-    border-right-width: 0;
-    border-style: solid;
-    border-top-width: 0;
-    color: #5c5c5c;
-    font-size: .8em;
-    font-weight: normal;
-    margin-bottom: 11em;
-    margin-left: 6em;
-    margin-top: -8em;
-    padding-left: 1em;
-    text-align: left;
-    width: 70%;
-}
 
 pre {
     background-color: #f7f9fc;
@@ -114,26 +135,5 @@ ul li ul {
 ul li ul li {
     margin: 1em;
     padding: 0;
-}
-
-html body > h2 + b {
-    font-size: .9em;
-    position: relative;
-    margin-top: -150px;
-    height: 150px;
-    clear: both;
-    text-align: center;
-    margin-bottom: em;
-}
-
-html body > b + p {
-    font-size: .9em;
-    position: relative;
-    margin-top: -120px;
-    height: 150px;
-    clear: both;
-    text-align: center;
-    padding-bottom: 4em
-;
 }
 
